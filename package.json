@@ -1,0 +1,21 @@
+{
+  "name": "acts-tenshi-hinanawi-theme",
+  "displayName": "Tenshi Hinanawi",
+  "description": "A VSCode theme based on Tenshi Hinanawi from Touhou Project.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.140.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tenshi Hinanawi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tenshi Hinanawi-color-theme.json"
+      }
+    ]
+  }
+}
